@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3892991e_3d8cf479",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1015246
+      },
+      "writtenOn": "2019-01-17T04:10:20Z",
+      "side": 1,
+      "message": "Looks good. Needs to be merged!",
+      "revId": "7dbfeef020a9b30c672e248bedd0048ad7436e53",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
